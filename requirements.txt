@@ -1,0 +1,6 @@
+torch>=2.0
+pandas
+geemap
+matplotlib
+ipython
+opencv-python-headless
